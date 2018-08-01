@@ -20,6 +20,7 @@
 		CFBF9BF6210F2CD200C2F4B6 /* 9_RangeBasedfor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BF5210F2CD200C2F4B6 /* 9_RangeBasedfor.cpp */; };
 		CFBF9BF92111529E00C2F4B6 /* 1_main_chapter2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BF82111529E00C2F4B6 /* 1_main_chapter2.cpp */; };
 		CFBF9BFC2111AC7B00C2F4B6 /* 2_DefaultParam.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BFB2111AC7B00C2F4B6 /* 2_DefaultParam.cpp */; };
+		CFBF9BFF2111B56F00C2F4B6 /* 3_DefaultParam2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BFE2111B56F00C2F4B6 /* 3_DefaultParam2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -50,6 +51,7 @@
 		CFBF9BF82111529E00C2F4B6 /* 1_main_chapter2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1_main_chapter2.cpp; sourceTree = "<group>"; };
 		CFBF9BFB2111AC7B00C2F4B6 /* 2_DefaultParam.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2_DefaultParam.cpp; sourceTree = "<group>"; };
 		CFBF9BFD2111ADD800C2F4B6 /* 0_2장 유튜브 정리.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "0_2장 유튜브 정리.rtfd"; sourceTree = "<group>"; };
+		CFBF9BFE2111B56F00C2F4B6 /* 3_DefaultParam2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3_DefaultParam2.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,6 +122,7 @@
 				CFBF9BFD2111ADD800C2F4B6 /* 0_2장 유튜브 정리.rtfd */,
 				CFBF9BF82111529E00C2F4B6 /* 1_main_chapter2.cpp */,
 				CFBF9BFB2111AC7B00C2F4B6 /* 2_DefaultParam.cpp */,
+				CFBF9BFE2111B56F00C2F4B6 /* 3_DefaultParam2.cpp */,
 			);
 			path = chapter2;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			files = (
 				CFBF9BE3210C778000C2F4B6 /* 2_CinString.cpp in Sources */,
 				CFBF9BE8210EF12E00C2F4B6 /* 4_NewDeleteSample.cpp in Sources */,
+				CFBF9BFF2111B56F00C2F4B6 /* 3_DefaultParam2.cpp in Sources */,
 				CFBF9BF6210F2CD200C2F4B6 /* 9_RangeBasedfor.cpp in Sources */,
 				CFBF9BF2210F0EB400C2F4B6 /* 1_main_chapter1.cpp in Sources */,
 				CFBF9BE1210C76B500C2F4B6 /* 3_AutoSample.cpp in Sources */,
