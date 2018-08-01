@@ -8,6 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		CF2C1E8B210C624F006296C2 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CF2C1E8A210C624F006296C2 /* main.cpp */; };
+		CFBF9BE1210C76B500C2F4B6 /* 3_AutoSample.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BE0210C76B500C2F4B6 /* 3_AutoSample.cpp */; };
+		CFBF9BE3210C778000C2F4B6 /* 2_CinString.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BE2210C778000C2F4B6 /* 2_CinString.cpp */; };
+		CFBF9BE5210C7A0A00C2F4B6 /* HelloOOP.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BE4210C7A0A00C2F4B6 /* HelloOOP.cpp */; };
+		CFBF9BE8210EF12E00C2F4B6 /* 4_NewDeleteSample.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BE7210EF12E00C2F4B6 /* 4_NewDeleteSample.cpp */; };
+		CFBF9BEB210F067B00C2F4B6 /* 5_ReferenceType.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BEA210F067B00C2F4B6 /* 5_ReferenceType.cpp */; };
+		CFBF9BED210F09F300C2F4B6 /* 6_CallByReference.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BEC210F09F300C2F4B6 /* 6_CallByReference.cpp */; };
+		CFBF9BEF210F0DA600C2F4B6 /* 7_ReferenceSwap.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BEE210F0DA600C2F4B6 /* 7_ReferenceSwap.cpp */; };
+		CFBF9BF2210F0EB400C2F4B6 /* 1_main_chapter1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BF0210F0EB400C2F4B6 /* 1_main_chapter1.cpp */; };
+		CFBF9BF4210F287500C2F4B6 /* 8_RvalueSample.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BF3210F287500C2F4B6 /* 8_RvalueSample.cpp */; };
+		CFBF9BF6210F2CD200C2F4B6 /* 9_RangeBasedfor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BF5210F2CD200C2F4B6 /* 9_RangeBasedfor.cpp */; };
+		CFBF9BF92111529E00C2F4B6 /* 1_main_chapter2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BF82111529E00C2F4B6 /* 1_main_chapter2.cpp */; };
+		CFBF9BFC2111AC7B00C2F4B6 /* 2_DefaultParam.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BFB2111AC7B00C2F4B6 /* 2_DefaultParam.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +37,19 @@
 /* Begin PBXFileReference section */
 		CF2C1E87210C624F006296C2 /* HelloCpp */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = HelloCpp; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF2C1E8A210C624F006296C2 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		CFBF9BE0210C76B500C2F4B6 /* 3_AutoSample.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3_AutoSample.cpp; sourceTree = "<group>"; };
+		CFBF9BE2210C778000C2F4B6 /* 2_CinString.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2_CinString.cpp; sourceTree = "<group>"; };
+		CFBF9BE4210C7A0A00C2F4B6 /* HelloOOP.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = HelloOOP.cpp; sourceTree = "<group>"; };
+		CFBF9BE7210EF12E00C2F4B6 /* 4_NewDeleteSample.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4_NewDeleteSample.cpp; sourceTree = "<group>"; };
+		CFBF9BEA210F067B00C2F4B6 /* 5_ReferenceType.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5_ReferenceType.cpp; sourceTree = "<group>"; };
+		CFBF9BEC210F09F300C2F4B6 /* 6_CallByReference.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 6_CallByReference.cpp; sourceTree = "<group>"; };
+		CFBF9BEE210F0DA600C2F4B6 /* 7_ReferenceSwap.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 7_ReferenceSwap.cpp; sourceTree = "<group>"; };
+		CFBF9BF0210F0EB400C2F4B6 /* 1_main_chapter1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1_main_chapter1.cpp; sourceTree = "<group>"; };
+		CFBF9BF3210F287500C2F4B6 /* 8_RvalueSample.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 8_RvalueSample.cpp; sourceTree = "<group>"; };
+		CFBF9BF5210F2CD200C2F4B6 /* 9_RangeBasedfor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 9_RangeBasedfor.cpp; sourceTree = "<group>"; };
+		CFBF9BF82111529E00C2F4B6 /* 1_main_chapter2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 1_main_chapter2.cpp; sourceTree = "<group>"; };
+		CFBF9BFB2111AC7B00C2F4B6 /* 2_DefaultParam.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2_DefaultParam.cpp; sourceTree = "<group>"; };
+		CFBF9BFD2111ADD800C2F4B6 /* 0_2장 유튜브 정리.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "0_2장 유튜브 정리.rtfd"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,9 +82,46 @@
 		CF2C1E89210C624F006296C2 /* HelloCpp */ = {
 			isa = PBXGroup;
 			children = (
+				CFBF9BE6210EF0C000C2F4B6 /* chapter1 */,
+				CFBF9BF7211151F000C2F4B6 /* chapter2 */,
+				CFBF9BE9210F042900C2F4B6 /* chapter3 */,
 				CF2C1E8A210C624F006296C2 /* main.cpp */,
 			);
 			path = HelloCpp;
+			sourceTree = "<group>";
+		};
+		CFBF9BE6210EF0C000C2F4B6 /* chapter1 */ = {
+			isa = PBXGroup;
+			children = (
+				CFBF9BF0210F0EB400C2F4B6 /* 1_main_chapter1.cpp */,
+				CFBF9BE2210C778000C2F4B6 /* 2_CinString.cpp */,
+				CFBF9BE0210C76B500C2F4B6 /* 3_AutoSample.cpp */,
+				CFBF9BE7210EF12E00C2F4B6 /* 4_NewDeleteSample.cpp */,
+				CFBF9BEA210F067B00C2F4B6 /* 5_ReferenceType.cpp */,
+				CFBF9BEC210F09F300C2F4B6 /* 6_CallByReference.cpp */,
+				CFBF9BEE210F0DA600C2F4B6 /* 7_ReferenceSwap.cpp */,
+				CFBF9BF3210F287500C2F4B6 /* 8_RvalueSample.cpp */,
+				CFBF9BF5210F2CD200C2F4B6 /* 9_RangeBasedfor.cpp */,
+			);
+			path = chapter1;
+			sourceTree = "<group>";
+		};
+		CFBF9BE9210F042900C2F4B6 /* chapter3 */ = {
+			isa = PBXGroup;
+			children = (
+				CFBF9BE4210C7A0A00C2F4B6 /* HelloOOP.cpp */,
+			);
+			path = chapter3;
+			sourceTree = "<group>";
+		};
+		CFBF9BF7211151F000C2F4B6 /* chapter2 */ = {
+			isa = PBXGroup;
+			children = (
+				CFBF9BFD2111ADD800C2F4B6 /* 0_2장 유튜브 정리.rtfd */,
+				CFBF9BF82111529E00C2F4B6 /* 1_main_chapter2.cpp */,
+				CFBF9BFB2111AC7B00C2F4B6 /* 2_DefaultParam.cpp */,
+			);
+			path = chapter2;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -118,7 +180,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CFBF9BE3210C778000C2F4B6 /* 2_CinString.cpp in Sources */,
+				CFBF9BE8210EF12E00C2F4B6 /* 4_NewDeleteSample.cpp in Sources */,
+				CFBF9BF6210F2CD200C2F4B6 /* 9_RangeBasedfor.cpp in Sources */,
+				CFBF9BF2210F0EB400C2F4B6 /* 1_main_chapter1.cpp in Sources */,
+				CFBF9BE1210C76B500C2F4B6 /* 3_AutoSample.cpp in Sources */,
+				CFBF9BEB210F067B00C2F4B6 /* 5_ReferenceType.cpp in Sources */,
+				CFBF9BEF210F0DA600C2F4B6 /* 7_ReferenceSwap.cpp in Sources */,
+				CFBF9BF4210F287500C2F4B6 /* 8_RvalueSample.cpp in Sources */,
+				CFBF9BF92111529E00C2F4B6 /* 1_main_chapter2.cpp in Sources */,
+				CFBF9BED210F09F300C2F4B6 /* 6_CallByReference.cpp in Sources */,
 				CF2C1E8B210C624F006296C2 /* main.cpp in Sources */,
+				CFBF9BE5210C7A0A00C2F4B6 /* HelloOOP.cpp in Sources */,
+				CFBF9BFC2111AC7B00C2F4B6 /* 2_DefaultParam.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
