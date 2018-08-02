@@ -21,6 +21,10 @@
 		CFBF9BF92111529E00C2F4B6 /* 1_main_chapter2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BF82111529E00C2F4B6 /* 1_main_chapter2.cpp */; };
 		CFBF9BFC2111AC7B00C2F4B6 /* 2_DefaultParam.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BFB2111AC7B00C2F4B6 /* 2_DefaultParam.cpp */; };
 		CFBF9BFF2111B56F00C2F4B6 /* 3_DefaultParam2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9BFE2111B56F00C2F4B6 /* 3_DefaultParam2.cpp */; };
+		CFBF9C012112A4DB00C2F4B6 /* 4_FunckPoly.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9C002112A4DB00C2F4B6 /* 4_FunckPoly.cpp */; };
+		CFBF9C032112BD7800C2F4B6 /* 5_FuncAmbiguity.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9C022112BD7800C2F4B6 /* 5_FuncAmbiguity.cpp */; };
+		CFBF9C052112C09500C2F4B6 /* 6_FuncTemplate1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9C042112C09500C2F4B6 /* 6_FuncTemplate1.cpp */; };
+		CFBF9C072112C48B00C2F4B6 /* 7_FuncTemplate2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CFBF9C062112C48B00C2F4B6 /* 7_FuncTemplate2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -52,6 +56,11 @@
 		CFBF9BFB2111AC7B00C2F4B6 /* 2_DefaultParam.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2_DefaultParam.cpp; sourceTree = "<group>"; };
 		CFBF9BFD2111ADD800C2F4B6 /* 0_2장 유튜브 정리.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "0_2장 유튜브 정리.rtfd"; sourceTree = "<group>"; };
 		CFBF9BFE2111B56F00C2F4B6 /* 3_DefaultParam2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3_DefaultParam2.cpp; sourceTree = "<group>"; };
+		CFBF9C002112A4DB00C2F4B6 /* 4_FunckPoly.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4_FunckPoly.cpp; sourceTree = "<group>"; };
+		CFBF9C022112BD7800C2F4B6 /* 5_FuncAmbiguity.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5_FuncAmbiguity.cpp; sourceTree = "<group>"; };
+		CFBF9C042112C09500C2F4B6 /* 6_FuncTemplate1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 6_FuncTemplate1.cpp; sourceTree = "<group>"; };
+		CFBF9C062112C48B00C2F4B6 /* 7_FuncTemplate2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 7_FuncTemplate2.cpp; sourceTree = "<group>"; };
+		CFBF9C082112EF1F00C2F4B6 /* 0_독하게 C 15,16,17장.rtfd */ = {isa = PBXFileReference; lastKnownFileType = wrapper.rtfd; path = "0_독하게 C 15,16,17장.rtfd"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -120,9 +129,14 @@
 			isa = PBXGroup;
 			children = (
 				CFBF9BFD2111ADD800C2F4B6 /* 0_2장 유튜브 정리.rtfd */,
+				CFBF9C082112EF1F00C2F4B6 /* 0_독하게 C 15,16,17장.rtfd */,
 				CFBF9BF82111529E00C2F4B6 /* 1_main_chapter2.cpp */,
 				CFBF9BFB2111AC7B00C2F4B6 /* 2_DefaultParam.cpp */,
 				CFBF9BFE2111B56F00C2F4B6 /* 3_DefaultParam2.cpp */,
+				CFBF9C002112A4DB00C2F4B6 /* 4_FunckPoly.cpp */,
+				CFBF9C022112BD7800C2F4B6 /* 5_FuncAmbiguity.cpp */,
+				CFBF9C042112C09500C2F4B6 /* 6_FuncTemplate1.cpp */,
+				CFBF9C062112C48B00C2F4B6 /* 7_FuncTemplate2.cpp */,
 			);
 			path = chapter2;
 			sourceTree = "<group>";
@@ -191,12 +205,16 @@
 				CFBF9BE1210C76B500C2F4B6 /* 3_AutoSample.cpp in Sources */,
 				CFBF9BEB210F067B00C2F4B6 /* 5_ReferenceType.cpp in Sources */,
 				CFBF9BEF210F0DA600C2F4B6 /* 7_ReferenceSwap.cpp in Sources */,
+				CFBF9C072112C48B00C2F4B6 /* 7_FuncTemplate2.cpp in Sources */,
 				CFBF9BF4210F287500C2F4B6 /* 8_RvalueSample.cpp in Sources */,
 				CFBF9BF92111529E00C2F4B6 /* 1_main_chapter2.cpp in Sources */,
 				CFBF9BED210F09F300C2F4B6 /* 6_CallByReference.cpp in Sources */,
+				CFBF9C052112C09500C2F4B6 /* 6_FuncTemplate1.cpp in Sources */,
 				CF2C1E8B210C624F006296C2 /* main.cpp in Sources */,
+				CFBF9C012112A4DB00C2F4B6 /* 4_FunckPoly.cpp in Sources */,
 				CFBF9BE5210C7A0A00C2F4B6 /* HelloOOP.cpp in Sources */,
 				CFBF9BFC2111AC7B00C2F4B6 /* 2_DefaultParam.cpp in Sources */,
+				CFBF9C032112BD7800C2F4B6 /* 5_FuncAmbiguity.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
