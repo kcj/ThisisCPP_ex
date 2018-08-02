@@ -7,9 +7,23 @@
 //
 
 #include <iostream>
+#include "chapter1/1_main_chapter1.cpp"
+#include "chapter2/1_main_chapter2.cpp"
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+using namespace std;
+
+int main(int argc, char * argv[]) {
+    
+    // CHAPTER 1
+//    cout << "*********** CHAPTER 1 ***********" << endl;
+//    Main_Chapter1 mc1;
+//    mc1.mc();
+    
+    //CHAPTER 2
+    cout << "*********** CHAPTER 2 ***********" << endl;
+    Main_chapter2 mc2;
+    mc2.mc();
+    
     return 0;
 }
+
